@@ -1,0 +1,17 @@
+<ion-view title="GSM Search" id="page2">
+  <ion-content padding="true" class="has-header">
+    <form id="gsmSearch-form1" class="list">
+      <label class="item item-select" id="gsmSearch-select1" ng-repeat="s in schools">
+        <span class="input-label">School</span>
+        <select ng-model="selected" ng-options="item for item in schools">
+            <option>SIT</option>
+            <option>SIDM</option>
+            <option>SCL</option>
+            <option>FGS</option>
+            <option>SBM</option>
+        </select>
+      </label>
+    </form>
+      <a ui-sref="tab.gsm({gsm:selected})" class="button button-positive button-block">Go</a>
+  </ion-content>
+</ion-view>

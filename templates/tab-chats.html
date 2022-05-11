@@ -1,0 +1,16 @@
+<ion-view view-title="Chats">
+  <ion-content>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="gsm in favs" type="item-text-wrap" href="#/tab/chats/{{gsm.id}}">
+        <img ng-src="{{gsm.img}}">
+        <h2>{{gsm.name}}</h2>
+        <p>{{gsm.module}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+
+        <ion-option-button class="button-assertive" ng-click="remove(gsm)">
+          Delete
+        </ion-option-button>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

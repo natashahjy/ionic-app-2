@@ -1,0 +1,35 @@
+[{ "id":1, "school":"SBM", "name":"Event Planning & Marketing", "module":"BMX201", "img":"BMX201.jpeg" },
+ { "id":2, "school":"SBM", "name":"Psychology of Mass Media", "module":"BMX202", "img":"BMX202.jpeg" },
+ { "id":3, "school":"SBM", "name":"Accounting for Beginners", "module":"BMX203", "img":"BMX203.jpeg" },
+ { "id":4, "school":"SBM", "name":"Intercultural Business Practices & Communication", "module":"BMX204", "img":"BMX204.jpeg" },
+ { "id":5, "school":"SBM", "name":"Marketing Essentials", "module":"BMX205", "img":"BMX205.jpeg" },
+ 
+
+ { "id":20, "school":"SCL", "name":"Fun with Chemistry", "module":"CLX201", "img":"CLX201.jpeg"  },
+ { "id":21, "school":"SCL", "name":"Understanding Our Environment", "module":"CLX202", "img":"CLX202.jpeg"  },
+ { "id":22, "school":"SCL", "name":"Wonders of Alternative Medicines", "module":"CLX203", "img":"CLX203.jpeg"  },
+ { "id":23, "school":"SCL", "name":"Science behind Skin Care", "module":"CLX204", "img":"CLX204.jpeg"  },
+
+ { "id":30, "school":"FGS", "name":"Introduction to Sociology", "module":"FGX201", "img":"FGX201.jpeg"  },
+ { "id":31, "school":"FGS", "name":"Bounce Back! The ABCs of Resilience", "module":"FGX202", "img":"FGX202.jpeg"  },
+ { "id":32, "school":"FGS", "name":"Healthy Relationships, Enriched Lives", "module":"FGX203", "img":"FGX203.jpeg"  },
+ { "id":33, "school":"FGS", "name":"Introduction to French Language", "module":"FGX204", "img":"FGX204.jpeg"  },
+ { "id":34, "school":"FGS", "name":"Introduction to German Language", "module":"FGX205", "img":"FGX205.jpeg"  },
+ { "id":35, "school":"FGS", "name":"Introduction to Japanese Language", "module":"FGX206", "img":"FGX206.jpeg"  },
+ { "id":36, "school":"FGS", "name":"Introduction to Korean Language", "module":"FGX207", "img":"FGX207.jpeg"  },
+ { "id":37, "school":"FGS", "name":"Discovering French Culture & Society", "module":"FGX208", "img":"FGX208.jpeg"  },
+ { "id":38, "school":"FGS", "name":"Discovering German Culture & Society", "module":"FGX209", "img":"FGX209.jpeg"  },
+ { "id":39, "school":"FGS", "name":"Discovering Japanese Culture & Society", "module":"FGX210", "img":"FGX210.jpeg"  },
+ 
+ { "id":40, "school":"SIDM", "name":"Game Art Basics", "module":"DMX201", "img":"DMX201.jpeg"  },
+ { "id":41, "school":"SIDM", "name":"UX Design", "module":"DMX202", "img":"DMX202.jpg"  },
+ { "id":42, "school":"SIDM", "name":"Computer Game Logic", "module":"DMX203", "img":"DMX203.jpeg"  },
+ { "id":43, "school":"SIDM", "name":"History of Animation", "module":"DMX204", "img":"DMX204.jpeg"  },  
+ { "id":44, "school":"SIDM", "name":"Visual Effects through the Ages", "module":"DMX205", "img":"DMX205.jpeg"  },
+ { "id":45, "school":"SIDM", "name":"Digital Photography", "module":"DMX206", "img":"DMX206.jpeg"  },
+
+ { "id":46, "school":"SIT", "name":"Computational Thinking for Everyday Life", "module":"ITX201", "img":"ITX201.jpeg"  },   
+ { "id":47, "school":"SIT", "name":"The Importance of Cyber Security", "module":"ITX202", "img":"ITX202.jpeg"  },  
+ { "id":48, "school":"SIT", "name":"Create Professional Business Documentations", "module":"ITX203", "img":"ITX203.jpeg"  },  
+ { "id":49, "school":"SIT", "name":"Making Impactful PowerPoint Presentations", "module":"ITX204", "img":"ITX204.jpeg"  },
+{ "id":50, "school":"SIT", "name":"Get More Out of Spreadsheets", "module":"ITX205", "img":"ITX205.jpeg"  }  ]
